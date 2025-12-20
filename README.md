@@ -20,5 +20,5 @@ My tech stack: Python, JavaScript, Java, C (C++ in progress), Bash, Apache Kafka
 
 ### Links
 
-[Resume](www.resume.borisgans.com) · [LinkedIn](www.linkedin.com/in/boris-gans) · [Email](mailto:borisgans418@gmail.com)
+[Resume](https://resume.borisgans.com) · [LinkedIn](https://linkedin.com/in/boris-gans) · [Email](mailto:borisgans418@gmail.com)
 
