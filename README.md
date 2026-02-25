@@ -8,11 +8,11 @@ I'm Boris, a Computer Science & AI student at IE University. I primarily have a 
 
 ### My Favorite Projects
 
-**[Distributed Inference](https://github.com/boris-gans/distributed-inference.git):** An experiment in multi-node LLM inference using PyTorch and DeepSpeed. Our goal was to run and benchmark the OpenLLaMA 3B v2 model across GPU nodes under Slurm, exploring pipeline parallelism, scaling behavior, and performance tradeoffs. The final distributed run wasn’t achievable given the resources available on the cluster, but I found the project super interesting and learned a lot about how large language models work at scale.
+**[Distributed Inference](https://github.com/boris-gans/distributed-inference.git):** An experiment in multi-node LLM inference using PyTorch and DeepSpeed. Our goal was to run and benchmark the OpenLLaMA 3B v2 model across GPU within a Slurm-managed cluster, exploring pipeline parallelism, scaling behavior, and performance tradeoffs.
 
-**[Mortgage Predict](https://github.com/lucaskvz/MortgagePredict.git):** A mortgage analytics project exploring classification and regression models using scikit-learn, XGBoost, and LightGBM. A major focus was merging and validating multiple real-world datasets, followed by extensive data cleaning, feature selection, and model comparison with SHAP.
+**[Mortgage Predict](https://github.com/lucaskvz/MortgagePredict.git):** A mortgage analytics project exploring classification and regression models using scikit-learn, XGBoost, and LightGBM.
 
-**[YAYA](https://github.com/boris-gans/yaya.git):** A backend-first event planning app built as a microservices playground. I used FastAPI, gRPC, and Celery to separate reads, writes, and background work so user-facing requests stay fast while metrics and other non-critical updates run asynchronously. The project focuses on clean service boundaries, practical CQRS-style patterns, and production-inspired backend design.
+**[YAYA](https://github.com/boris-gans/yaya.git):** A backend-first event planning app built as a microservices playground. I used FastAPI, gRPC, and Celery to separate reads, writes, and background work so user-facing requests stay fast while metrics and other non-critical updates run asynchronously.
 
 <br>
 
