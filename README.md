@@ -2,10 +2,6 @@
 
 I'm Boris, a Computer Science & AI student at IE University. I primarily have a passion for backend engineering, particulary at the intersection with machine learning, although in general I just love building. Competitive athletics have shaped my approach to engineering: discipline, consistency, and long-term improvement. These are qualities I try to apply in software development wherever possible. I'm Dutch born, grew up in the United States and am currently studying in Madrid.
 
-
-**My tech stack**: Python, JavaScript, Java, C, C++, SQL, Pandas, pytest, Apache Kafka, MLflow, Grafana, Prometheus, Redis, AWS, Azure, Cloudflare
-
-
 ### My Favorite Projects
 
 **[Distributed Inference](https://github.com/boris-gans/distributed-inference.git):** An experiment in multi-node LLM inference using PyTorch and DeepSpeed. Our goal was to run and benchmark the OpenLLaMA 3B v2 model across GPU within a Slurm-managed cluster, exploring pipeline parallelism, scaling behavior, and performance tradeoffs.
