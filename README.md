@@ -10,6 +10,6 @@ I'm Boris, a Computer Science & AI student at IE University and a Junior Softwar
 
 <br>
 
-Email: `borisgans418@gmail.com` · [Resume](https://resume.borisgans.com) · [LinkedIn](https://linkedin.com/in/boris-gans)
+Email: `borisgans418@gmail.com` · [Resume](https://resume.borisgans.com)
 
 
