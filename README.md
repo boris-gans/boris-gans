@@ -7,9 +7,3 @@ I'm Boris, a Computer Science & AI student at IE University and a Junior Softwar
 **[Distributed Inference](https://github.com/boris-gans/distributed-inference.git):** An experiment in multi-node LLM inference using PyTorch and DeepSpeed. Our goal was to run and benchmark the OpenLLaMA 3B v2 model across GPU within a Slurm-managed cluster, exploring pipeline parallelism, scaling behavior, and performance tradeoffs.
 
 **[Mortgage Predict](https://github.com/lucaskvz/MortgagePredict.git):** A mortgage analytics project exploring classification and regression models using scikit-learn, XGBoost, and LightGBM.
-
-<br>
-
-Email: `borisgans418@gmail.com` · [Resume](https://resume.borisgans.com)
-
-
